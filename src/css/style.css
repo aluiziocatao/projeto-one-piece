@@ -14,10 +14,6 @@ main::after {
     background: linear-gradient(-233deg, #000 40%, rgba(0, 0, 0, 0) 65%) no-repeat;
 }
 
-.personagens {
-
-}
-
 .personagem {
     display: none;
     height: 100vh;
@@ -85,7 +81,7 @@ main::after {
 
 .tripulacoes-botoes .tripulacao-botao {
     border: none;
-    background: none;
+    background: #000000;
     cursor: pointer;
     border-radius: 50%;
 }
